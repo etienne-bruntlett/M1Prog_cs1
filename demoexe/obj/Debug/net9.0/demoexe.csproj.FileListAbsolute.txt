@@ -1,0 +1,14 @@
+C:\Users\etien\Documents\M1 PROG C#\demoexe\bin\Debug\net9.0\demoexe.exe
+C:\Users\etien\Documents\M1 PROG C#\demoexe\bin\Debug\net9.0\demoexe.deps.json
+C:\Users\etien\Documents\M1 PROG C#\demoexe\bin\Debug\net9.0\demoexe.runtimeconfig.json
+C:\Users\etien\Documents\M1 PROG C#\demoexe\bin\Debug\net9.0\demoexe.dll
+C:\Users\etien\Documents\M1 PROG C#\demoexe\bin\Debug\net9.0\demoexe.pdb
+C:\Users\etien\Documents\M1 PROG C#\demoexe\obj\Debug\net9.0\demoexe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\M1 PROG C#\demoexe\obj\Debug\net9.0\demoexe.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\M1 PROG C#\demoexe\obj\Debug\net9.0\demoexe.AssemblyInfo.cs
+C:\Users\etien\Documents\M1 PROG C#\demoexe\obj\Debug\net9.0\demoexe.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\M1 PROG C#\demoexe\obj\Debug\net9.0\demoexe.dll
+C:\Users\etien\Documents\M1 PROG C#\demoexe\obj\Debug\net9.0\refint\demoexe.dll
+C:\Users\etien\Documents\M1 PROG C#\demoexe\obj\Debug\net9.0\demoexe.pdb
+C:\Users\etien\Documents\M1 PROG C#\demoexe\obj\Debug\net9.0\demoexe.genruntimeconfig.cache
+C:\Users\etien\Documents\M1 PROG C#\demoexe\obj\Debug\net9.0\ref\demoexe.dll

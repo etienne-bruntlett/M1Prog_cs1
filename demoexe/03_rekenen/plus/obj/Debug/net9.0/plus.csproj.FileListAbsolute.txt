@@ -1,0 +1,14 @@
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\bin\Debug\net9.0\plus.exe
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\bin\Debug\net9.0\plus.deps.json
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\bin\Debug\net9.0\plus.runtimeconfig.json
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\bin\Debug\net9.0\plus.dll
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\bin\Debug\net9.0\plus.pdb
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\obj\Debug\net9.0\plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\obj\Debug\net9.0\plus.AssemblyInfoInputs.cache
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\obj\Debug\net9.0\plus.AssemblyInfo.cs
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\obj\Debug\net9.0\plus.csproj.CoreCompileInputs.cache
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\obj\Debug\net9.0\plus.dll
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\obj\Debug\net9.0\refint\plus.dll
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\obj\Debug\net9.0\plus.pdb
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\obj\Debug\net9.0\plus.genruntimeconfig.cache
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\demoexe\03_rekenen\plus\obj\Debug\net9.0\ref\plus.dll
