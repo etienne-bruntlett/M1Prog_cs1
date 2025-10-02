@@ -5,7 +5,8 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("- Je zoekt je sleutel.");
-        bool sleutelkwijt = false;
+        Console.WriteLine("- Heb je je sleutel gevonden? (Y/N)");
+        bool sleutelkwijt = Console.ReadLine() == "N";
         if (sleutelkwijt == true)
         {
             Console.WriteLine("- Je bent je sleutel kwijt!");
