@@ -1,0 +1,15 @@
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\bin\Debug\net9.0\als.exe
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\bin\Debug\net9.0\als.deps.json
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\bin\Debug\net9.0\als.runtimeconfig.json
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\bin\Debug\net9.0\als.dll
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\bin\Debug\net9.0\als.pdb
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\als.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\als.AssemblyInfoInputs.cache
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\als.AssemblyInfo.cs
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\als.csproj.CoreCompileInputs.cache
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\als.sourcelink.json
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\als.dll
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\refint\als.dll
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\als.pdb
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\als.genruntimeconfig.cache
+C:\Users\etien\OneDrive - Mediacollege Amsterdam\MA\M1 PROG C#\04_beslissen\als\obj\Debug\net9.0\ref\als.dll
