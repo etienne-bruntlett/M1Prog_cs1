@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\bin\Debug\net9.0\uitvragen.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\refint\uitvragen.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\uitvragen.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\uitvragen\obj\Debug\net9.0\ref\uitvragen.dll
