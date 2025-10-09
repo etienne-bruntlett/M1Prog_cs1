@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\bin\Debug\net9.0\fruit.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\bin\Debug\net9.0\fruit.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\bin\Debug\net9.0\fruit.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\bin\Debug\net9.0\fruit.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\bin\Debug\net9.0\fruit.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\fruit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\fruit.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\fruit.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\fruit.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\fruit.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\fruit.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\refint\fruit.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\fruit.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\fruit.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\05_collecties\fruit\obj\Debug\net9.0\ref\fruit.dll
