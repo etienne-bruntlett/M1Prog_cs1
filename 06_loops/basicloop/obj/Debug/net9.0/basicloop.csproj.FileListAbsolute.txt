@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\bin\Debug\net9.0\basicloop.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\bin\Debug\net9.0\basicloop.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\bin\Debug\net9.0\basicloop.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\bin\Debug\net9.0\basicloop.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\bin\Debug\net9.0\basicloop.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\basicloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\basicloop.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\basicloop.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\basicloop.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\basicloop.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\basicloop.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\refint\basicloop.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\basicloop.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\basicloop.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\basicloop\obj\Debug\net9.0\ref\basicloop.dll
