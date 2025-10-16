@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\complexobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\complexobj.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\complexobj.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\complexobj.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\complexobj.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\bin\Debug\net9.0\complexobj.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\bin\Debug\net9.0\complexobj.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\bin\Debug\net9.0\complexobj.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\bin\Debug\net9.0\complexobj.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\bin\Debug\net9.0\complexobj.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\complexobj.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\refint\complexobj.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\complexobj.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\complexobj.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\complexobj\obj\Debug\net9.0\ref\complexobj.dll
