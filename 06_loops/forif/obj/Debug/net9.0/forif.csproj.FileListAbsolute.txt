@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\bin\Debug\net9.0\forif.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\bin\Debug\net9.0\forif.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\bin\Debug\net9.0\forif.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\bin\Debug\net9.0\forif.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\bin\Debug\net9.0\forif.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\forif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\forif.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\forif.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\forif.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\forif.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\forif.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\refint\forif.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\forif.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\forif.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\forif\obj\Debug\net9.0\ref\forif.dll
