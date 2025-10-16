@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\bin\Debug\net9.0\stringclass.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\bin\Debug\net9.0\stringclass.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\bin\Debug\net9.0\stringclass.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\bin\Debug\net9.0\stringclass.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\bin\Debug\net9.0\stringclass.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\stringclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\stringclass.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\stringclass.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\stringclass.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\stringclass.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\stringclass.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\refint\stringclass.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\stringclass.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\stringclass.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stringclass\obj\Debug\net9.0\ref\stringclass.dll
