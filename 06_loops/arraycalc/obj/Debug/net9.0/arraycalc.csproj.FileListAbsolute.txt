@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\arraycalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\arraycalc.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\arraycalc.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\arraycalc.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\arraycalc.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\bin\Debug\net9.0\arraycalc.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\bin\Debug\net9.0\arraycalc.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\bin\Debug\net9.0\arraycalc.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\bin\Debug\net9.0\arraycalc.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\bin\Debug\net9.0\arraycalc.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\arraycalc.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\refint\arraycalc.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\arraycalc.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\arraycalc.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\arraycalc\obj\Debug\net9.0\ref\arraycalc.dll
