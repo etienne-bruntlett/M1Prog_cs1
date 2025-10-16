@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\bin\Debug\net9.0\stappen.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\bin\Debug\net9.0\stappen.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\bin\Debug\net9.0\stappen.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\bin\Debug\net9.0\stappen.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\bin\Debug\net9.0\stappen.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\stappen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\stappen.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\stappen.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\stappen.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\stappen.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\stappen.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\refint\stappen.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\stappen.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\stappen.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\06_loops\stappen\obj\Debug\net9.0\ref\stappen.dll
