@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\bin\Debug\net9.0\autoclass.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\refint\autoclass.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\autoclass.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\08_class_intro\autoclass\obj\Debug\net9.0\ref\autoclass.dll

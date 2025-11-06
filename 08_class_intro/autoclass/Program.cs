@@ -4,6 +4,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Auto mijnAuto = new Auto();
+        mijnAuto.merk = "BMW";
+        mijnAuto.bouwjaar = 2010;
+        Console.WriteLine(mijnAuto);
+
+        Console.WriteLine("Auto merk: " + mijnAuto.merk);
+        Console.WriteLine("Auto bouwjaar: " + mijnAuto.bouwjaar);
+        Console.WriteLine("");
+
+        mijnAuto.merk = "Volkswagon";
+        mijnAuto.bouwjaar = 2015;
+
+        Console.WriteLine("Tweede Auto");
+        Console.WriteLine("Auto merk: " + mijnAuto.merk);
+        Console.WriteLine("Auto bouwjaar: " + mijnAuto.bouwjaar);
     }
 }
