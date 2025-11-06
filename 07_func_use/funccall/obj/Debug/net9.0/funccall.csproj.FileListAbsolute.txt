@@ -1,0 +1,15 @@
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\bin\Debug\net9.0\funccall.exe
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\bin\Debug\net9.0\funccall.deps.json
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\bin\Debug\net9.0\funccall.runtimeconfig.json
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\bin\Debug\net9.0\funccall.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\bin\Debug\net9.0\funccall.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\funccall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\funccall.AssemblyInfoInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\funccall.AssemblyInfo.cs
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\funccall.csproj.CoreCompileInputs.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\funccall.sourcelink.json
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\funccall.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\refint\funccall.dll
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\funccall.pdb
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\funccall.genruntimeconfig.cache
+C:\Users\etien\Documents\MA\M1 PROG C#\07_func_use\funccall\obj\Debug\net9.0\ref\funccall.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stappen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34263208016cea54e5512a37679cac6be7970bb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa34a989c18764259ac13614da6ef439edb62a69")]
 [assembly: System.Reflection.AssemblyProductAttribute("stappen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stappen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
